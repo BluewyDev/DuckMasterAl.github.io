@@ -1,6 +1,7 @@
-# Welcome to the DuckMasterAl Website!
-This is my Website with all my Projects and Contact Information :V
+# BluewyDev website
+Just check it out at [linkthatdoesntexistyet]
 
-You can see it at: [duck.js.org](https://duck.js.org)
+## credit 
 
-Thank you to [Angelo (@angeloanan)](https://angeloanan.xyz) and [Advaith (@advaith1)](https://advaith.fun) in helping me with the site :heart:
+[DuckMasterAl for providing the main website](https://github.com/DuckMasterAl/DuckMasterAl.github.io)
+[Angelo (@angeloanan)](https://angeloanan.xyz) and [Advaith (@advaith1)](https://advaith.fun) in helping Duck with the site
